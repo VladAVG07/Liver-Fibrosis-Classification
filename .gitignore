@@ -1,0 +1,31 @@
+# Model weights / checkpoints
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+checkpoints_v2/
+
+# Data
+data/
+dataset_split/
+
+# Upstream model source (clone separately, see README)
+MedViT/
+MedViTV2/
+
+# Kaggle credentials
+kaggle.json
+.kaggle/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
