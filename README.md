@@ -1,4 +1,4 @@
-# Liver Fibrosis Classification — Vision Transformers vs. CNNs
+# Liver Fibrosis Classification - Vision Transformers vs. CNNs
 
 Comparative analysis of Vision Transformers (MedViT / MedViT-V2) and convolutional
 networks (ResNet-18) for **liver fibrosis staging from ultrasound images**.
